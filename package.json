@@ -1,0 +1,11 @@
+{
+    "name":"GroupMeAnon",
+    "version":"0.0.1",
+    "description":"Bot used to anonymously post to a GroupMe chat",
+    "author":"Brad Warrum",
+    "dependencies": {
+        "node-schedule":"*"
+    }
+    "main":"index"
+
+}
